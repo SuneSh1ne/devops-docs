@@ -10,3 +10,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://SuneSh1ne.github.io/devops-docs/`.
+
+[Ошибка](missing-page.md)
